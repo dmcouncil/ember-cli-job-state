@@ -1,6 +1,10 @@
 # ember-cli-job-state
 
-This README outlines the details of collaborating on this Ember addon.
+This Ember.js addon provides a service for polling the Rails API provided by [the job_state gem](https://github.com/dmcouncil/job_state).
+
+
+
+# Contributing/Developing
 
 ## Installation
 
