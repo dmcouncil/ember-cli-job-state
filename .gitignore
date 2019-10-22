@@ -7,6 +7,10 @@
 # dependencies
 /node_modules
 /bower_components
+# Package-lock dictates specific versions which may conflict
+# with end-user dependencies - good thing to commit for an
+# end-user package, not so great for a library like this
+/package-lock.json
 
 # misc
 /.sass-cache
